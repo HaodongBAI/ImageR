@@ -13,4 +13,4 @@ irm.py: compared base line<br>
 lib.py:<br>
 nova.py: project name and entry<br>
 
-![Architecture][https://github.com/HaodongBAI/ImageR/blob/master/Architecture.png]
+![Architecture](https://github.com/HaodongBAI/ImageR/blob/master/Architecture.png)
